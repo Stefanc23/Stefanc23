@@ -2,8 +2,9 @@
 
 ## 👨‍💻 About Me
 🧑 My name is Stefano Christian Wiryana<br/>
-🎓 Currently a third-year CS student and a programmer intern<br/>
-💻 Focusing on mastering React & Laravel<br>
+🎓 Currently a final year CS student and a programmer intern<br/>
+💻 Focusing on mastering React & Laravel<br/>
+🔥 Passionate about app development<br/>
 🌐 Personal website: [stfn.tech](https://stfn.tech)<br/>
 📮 Email: [stefano@stfn.tech](mailto:stefano@stfn.tech)
 
