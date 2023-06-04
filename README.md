@@ -6,12 +6,12 @@
 💻 Focusing on mastering React & Laravel<br/>
 ❕ Open for remote working and freelance opportunities<br />
 🔥 Passionate about app development<br/>
-🌐 Personal website: [stfn.tech](https://stfn.tech)<br/>
-📮 Email: [stefano@stfn.tech](mailto:stefano@stfn.tech)
+🌐 Personal website: [stfn.vercel.app](https://stfn.vercel.app)<br/>
+📮 Email: [stefanowiryana@gmail.com](mailto:stefanowiryana@gmail.com)
 
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefanocwiryana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefanowiryana)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@stefanocw)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19312729) 
 
