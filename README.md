@@ -46,7 +46,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Stefanc23&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Stefanc23&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanc23&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Stefanc23&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Stefanc23&theme=slateorange&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanc23&theme=slateorange&hide_border=false&include_all_commits=true&exclude_repo=Virseum,Big-Data-Analytics,hibye&count_private=true&layout=compact)
 
